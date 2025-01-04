@@ -1,0 +1,41 @@
+{
+  "name": "e2s-auth-theme",
+  "version": "1.0.0",
+  "description": "An npm package to get custom authentication themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviSharma7877/custom-authentication-themes.git"
+  },
+  "keywords": [
+    "custom-authentication-themes"
+  ],
+  "author": "ravi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RaviSharma7877/custom-authentication-themes/issues"
+  },
+  "homepage": "https://github.com/RaviSharma7877/custom-authentication-themes#readme",
+  "dependencies": {
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-slot": "^1.1.1",
+    "@tabler/icons-react": "^3.14.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.31",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "react-icons": "^5.4.0",
+    "tailwind": "^4.0.0",
+    "tailwind-merge": "^2.5.2",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/react": "^19.0.2"
+  }
+}
